@@ -1,0 +1,23 @@
+C:\Users\Marcin\source\repos\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.pdb
+C:\Users\Marcin\source\repos\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.pdb
+C:\Users\Marcin\source\repos\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.dll.config
+C:\Users\Marcin\source\repos\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.dll
+C:\Users\Marcin\source\repos\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.dll
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.pdb
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.AssemblyReference.cache
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.pdb
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.exe.config
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.exe
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcin\Downloads\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.exe
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.exe.config
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.exe
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\bin\Debug\Essato Recruitment task.pdb
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.AssemblyReference.cache
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.exe
+C:\Users\Marcin\Documents\GitHub\Essato Recruitment task\Essato-Recruitment-main\Essato-Recruitment-main\Essato Recruitment task\Essato Recruitment task\obj\Debug\Essato Recruitment task.pdb

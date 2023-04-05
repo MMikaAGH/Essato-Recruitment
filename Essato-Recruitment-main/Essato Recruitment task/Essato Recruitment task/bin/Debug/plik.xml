@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomerList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <Customer>
+      <Name>Marcin</Name>
+      <Surname>Mika</Surname>
+      <Vat>PL1234567890</Vat>
+      <Creation_date>2023-03-20T00:00:00</Creation_date>
+      <Country>Poland</Country>
+      <Post_code>33-100</Post_code>
+      <Continent>Europe</Continent>
+      <City>Tarnów</City>
+      <Street>Mazowiecka</Street>
+      <House_numb>40A</House_numb>
+    </Customer>
+    <Customer>
+      <Name>Thomas</Name>
+      <Surname>Muller</Surname>
+      <Vat>DE987654321</Vat>
+      <Creation_date>2022-02-11T00:00:00</Creation_date>
+      <Country>Germany</Country>
+      <Post_code>22098</Post_code>
+      <Continent>Europe</Continent>
+      <City>Munchen</City>
+      <Street>Gewur</Street>
+      <House_numb>51</House_numb>
+      <Apartament_numb>6</Apartament_numb>
+    </Customer>
+  </List>
+</CustomerList>
